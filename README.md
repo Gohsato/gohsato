@@ -1,7 +1,7 @@
 ### Hello and welcome!
 
-My name's Goh. I recently graduated right now I am a full-stack developer at [FABCYCLE](https://www.fabcycle.shop/) making a custom Shopify integration.
-If you wanna talk about anything, hit me up @ `goh.hello@outlook.com`!
+My name's Goh. I recently graduated. Right now, I am a full-stack developer at [FABCYCLE](https://www.fabcycle.shop/) making a custom Shopify integration.
+If you wanna talk anything software, hit me up @ `goh.hello@outlook.com`!
 
 Other things I'm working on:
 - Making a web app with  [VikeLabs](https://github.com/VikeLabs) to help students plan their degree
