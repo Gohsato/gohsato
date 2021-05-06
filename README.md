@@ -10,8 +10,8 @@ Other things I'm working on:
 Other things I'm doing:
 - Figuring out music production 101
 - Learning to use my new film camera
-- Re-reading `The Great Gatsby`
-- Watching `The Sopranos` (it's soo good)
+- Stumbling through `A Brief History of Time`
+- Watching `Scrubs` 
 
 
 
