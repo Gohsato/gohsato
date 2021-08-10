@@ -1,8 +1,11 @@
-### Hello and welcome!
+### Hello!
 
-My name's Goh. I'm a recent graduate from the University of Victoria.  
-Right now, I am a full-stack developer at [FABCYCLE](https://www.fabcycle.shop/) making a custom Shopify integration.  
-If you wanna talk anything software, hit me up @ `goh.hello@outlook.com`!
+My name's Goh. Welcome to my Github page.    
+I'm a fullstack developer with experience building apps using React, Express, and Typescript.  
+
+Right now, I'm searching for new opportunities to build cool stuff.  
+If you would like to work with me, please email me at `goh.hello@outlook.com`
+
 
 Other things I'm working on:
 - Making a web app with  [VikeLabs](https://github.com/VikeLabs) to help students plan their degree
